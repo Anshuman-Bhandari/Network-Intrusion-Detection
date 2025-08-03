@@ -81,9 +81,3 @@ This project demonstrated the effectiveness of using machine learning for networ
 - Scikit-learn – [Decision Trees](https://scikit-learn.org/stable/modules/tree.html)
 
 ---
-
-## 🚀 How to Use
-
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/yourusername/nids-ml-ibmcloud.git
