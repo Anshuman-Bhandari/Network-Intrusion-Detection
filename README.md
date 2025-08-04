@@ -17,6 +17,8 @@ With the rise in cyber threats, there is a growing need for automated systems th
 - **Modeling:** Auto-generated pipelines with cross-validation  
 - **Output:** Best model with 99.5% accuracy, ready for deployment
 
+<img src='./screenshots//Screenshot 2025-08-03 133035.png'>
+
 ---
 
 ### 🖥️ System Requirements
@@ -25,6 +27,8 @@ With the rise in cyber threats, there is a growing need for automated systems th
 - IBM Watson Studio  
 - Stable Internet Connection  
 - Chrome/Firefox Browser
+
+<img src='./screenshots/Screenshot 2025-08-04 212555.png'>
 
 ---
 
@@ -46,6 +50,8 @@ With the rise in cyber threats, there is a growing need for automated systems th
 - **Accuracy:** 99.5% (cross-validation)  
 - **Deployment:** Model ready for deployment on IBM Cloud Lite using Watson Studio
 
+<img src='./screenshots/Screenshot 2025-08-03 132050.png'>
+
 ---
 
 ## 🏁 Result
@@ -54,6 +60,8 @@ With the rise in cyber threats, there is a growing need for automated systems th
 - **Pipeline 2** using **Snap Decision Tree Classifier (HPO)** was the top performer  
 - Achieved **99.5% accuracy** on cross-validation  
 - Successfully classified all attack types and ready for deployment
+
+<img src='./screenshots/Screenshot 2025-08-04 215016.png'>
 
 ---
 
